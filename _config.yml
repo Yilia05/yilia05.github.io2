@@ -5,9 +5,9 @@
 # Site
 title: Yilia's Rule
 subtitle:
-description: 
+description: 听别人故事，如何的春风得意也是人故事
 author: ZhangYu
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
